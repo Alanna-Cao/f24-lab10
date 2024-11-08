@@ -73,3 +73,8 @@ Hint: You can use the className attribute for highlighting. */
     margin: 10px 0;
   }
   
+  /* Selected Answer styles */
+  .selected {
+    background-color: #3498db;
+    color: white;
+  }
